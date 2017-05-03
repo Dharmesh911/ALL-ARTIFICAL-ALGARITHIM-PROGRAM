@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ expandFrontiers()
+comment1.params=
+comment1.target=void\ moveTiles()
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ up()
+comment3.params=
+comment3.target=void\ down()
+comment4.params=
+comment4.target=void\ left()
+comment5.params=
+comment5.target=void\ right()
+comment6.params=generatedNode\ previousNode
+comment6.target=void\ checkRepeatedNode(java.lang.String,\ java.lang.String)
+comment7.params=previousNode
+comment7.target=int\ calculateCost(java.lang.String)
+comment8.params=generatedNode\ previousNode
+comment8.target=void\ appendToList(java.lang.String,\ java.lang.String)
+comment9.params=expandedNode
+comment9.target=void\ displayState(java.lang.String)
+numComments=11

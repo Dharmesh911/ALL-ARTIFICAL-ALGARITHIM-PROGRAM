@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Heu
+comment1.params=inputString\ goalString
+comment1.target=int\ averageHeu(java.lang.String,\ java.lang.String)
+comment2.params=inputString\ goalString
+comment2.target=int\ maxHeu(java.lang.String,\ java.lang.String)
+comment3.params=inputString\ goalString
+comment3.target=int\ rowColumn(java.lang.String,\ java.lang.String)
+comment4.params=inputPosition\ goalPosition
+comment4.target=int\ rowColumnLookup(int,\ int)
+comment5.params=inputString\ goalString
+comment5.target=int\ missplacedTiles(java.lang.String,\ java.lang.String)
+comment6.params=inputString\ goalString
+comment6.target=int\ nielsen(java.lang.String,\ java.lang.String)
+comment7.params=inputString\ goalString
+comment7.target=int\ modified_nielsen(java.lang.String,\ java.lang.String)
+comment8.params=inputString\ goalString
+comment8.target=int\ manhhatan(java.lang.String,\ java.lang.String)
+comment9.params=inputPosition\ goalPosition
+comment9.target=int\ manhattanLookup(int,\ int)
+numComments=10
