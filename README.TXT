@@ -1,12 +1,12 @@
 ------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
+This is the project README file. This file can be open in BlueJ program.
+This program is not mine and it can be used for study purpose only. Before 
+executing the program you should change the puzzle number within all the
+algorithm files but do not change the goal state number. This will show 
+all the states of A* search, Best first search, Depth search and Breadth 
+first search.  
+
+
+Thank you...
 ------------------------------------------------------------------------
 
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
